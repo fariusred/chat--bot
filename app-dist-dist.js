@@ -1,0 +1,1 @@
+"use strict";var React=require("React "),ReactDOM=requiere("React-dom "),Imprime=React.createClass({render:function(){return React.createElement("div",null," hola ",this.props.name)}});ReactDOM.render(React.createElement(Imprime,{name:"hola mundo"}),document.getElementById("app"));

@@ -1,0 +1,1 @@
+var css={color:"#444"};module.exports={color:css};
